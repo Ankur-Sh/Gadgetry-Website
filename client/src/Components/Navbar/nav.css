@@ -1,0 +1,79 @@
+#profile-dropdown {
+    display: none;
+    position: absolute;
+    top: 8.2rem;
+    right: 28rem;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#profile-dropdown a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s;
+}
+#profile-dropdown a:hover {
+    background-color: #f4f4f4;
+}
+.nav_logo {
+    position: absolute;
+    left: 1rem;
+    top: 0;
+    height: 5rem;
+    width: auto;
+}
+.Nav {
+    max-height: 15rem;
+    max-width: 100%;
+    display: flex;
+}
+.nav_Img {
+    width: 100%;
+}
+.navlink {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    padding: 1% 5%;
+}
+.navlink:hover {
+    border-radius: 2rem;
+    background-color: white;
+    box-shadow: 9px 7px 0px 0px rgba(0, 0, 0);
+}
+.active {
+    border-radius: 2rem;
+    background-color: white;
+    box-shadow: 9px 7px 0px 0px rgba(0, 0, 0);
+}
+.avatar {
+    margin-left: 2rem;
+    background-color: black !important;
+}
+.avatar_text {
+    color: white;
+}
+.cart_icon {
+    margin-left: 0.4rem;
+    width: 2.6rem !important;
+    height: 2.5rem !important;
+}
+.like_icon {
+    margin-left: 0.4rem;
+    width: 3rem !important;
+    height: 2.5rem !important;
+    color: black;
+}
+.like_icon:hover {
+    color: red;
+}
+.icon_container {
+    display: flex;
+    margin-left: 2rem;
+}
+.linksection {
+    display: flex;
+}

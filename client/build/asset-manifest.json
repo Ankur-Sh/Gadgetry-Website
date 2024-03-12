@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7932869.css",
+    "main.js": "/static/js/main.0111f1cd.js",
+    "static/media/robohand.gif": "/static/media/robohand.a0fad33bb8af112784d5.gif",
+    "static/media/Titanic_front_page.jpg": "/static/media/Titanic_front_page.3fc49b16517b7ba406ce.jpg",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.ffa1c02f4dd4f056ec73.jpg",
+    "static/media/s5.jpg": "/static/media/s5.12b790b8aebe3e54f7c9.jpg",
+    "static/media/gadget3.webp": "/static/media/gadget3.a55d08e1504661e717b1.webp",
+    "static/media/Gadget5.webp": "/static/media/Gadget5.51957381ca62b72c2b28.webp",
+    "static/media/gadget2.jpg": "/static/media/gadget2.a7968ea4cb359551e6de.jpg",
+    "static/media/Gadget6.webp": "/static/media/Gadget6.5645435054947f7b9eb9.webp",
+    "static/media/gadget1.webp": "/static/media/gadget1.2c1805f3cf38923831eb.webp",
+    "static/media/s1.webp": "/static/media/s1.d065cc23d5bee435753f.webp",
+    "static/media/Gadget4.webp": "/static/media/Gadget4.b136b49c728ac30f8448.webp",
+    "static/media/s8.webp": "/static/media/s8.5cd5a69922e048647354.webp",
+    "static/media/s13.webp": "/static/media/s13.019caee695991d73446c.webp",
+    "static/media/s14.webp": "/static/media/s14.c5e62170d85120d71d30.webp",
+    "static/media/s12.webp": "/static/media/s12.6c42d76a6d2c041be904.webp",
+    "static/media/s9.webp": "/static/media/s9.561a095f6cd9866046a9.webp",
+    "static/media/s4.webp": "/static/media/s4.2f0cbee6a9cf8720c304.webp",
+    "static/media/s2.webp": "/static/media/s2.e9924e084c6fe1dac90a.webp",
+    "static/media/s11.webp": "/static/media/s11.afeba67e2ba43c2b7b6f.webp",
+    "static/media/s10.webp": "/static/media/s10.a0bfd664806708a444b5.webp",
+    "static/media/s7.webp": "/static/media/s7.329dd6f5b567c8dccf97.webp",
+    "static/media/s6.webp": "/static/media/s6.988e57e7ede5369f846e.webp",
+    "static/media/s3.webp": "/static/media/s3.601b1a92990741bc310e.webp",
+    "static/media/s15.webp": "/static/media/s15.69e05399b847ac6f18d6.webp",
+    "index.html": "/index.html",
+    "main.e7932869.css.map": "/static/css/main.e7932869.css.map",
+    "main.0111f1cd.js.map": "/static/js/main.0111f1cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7932869.css",
+    "static/js/main.0111f1cd.js"
+  ]
+}

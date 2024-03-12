@@ -1,0 +1,71 @@
+.main_box_created {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.gadget {
+    width: 100%;
+    height: 12.5rem;
+}
+.gadget_title {
+    height: 3rem;
+    margin-bottom: 1rem;
+}
+.gadget_message {
+    height: 3rem;
+}
+.price {
+    height: 4rem;
+    display: flex;
+}
+.like_btn_card {
+    margin-left: 30%;
+}
+.like_icon_card {
+    width: 3rem !important;
+    height: 2.5rem !important;
+}
+.liked_icon_card {
+    width: 3rem !important;
+    height: 2.5rem !important;
+}
+.like_icon_card:hover {
+    color: red;
+}
+.liked_icon_card:hover {
+    color: red;
+}
+
+.list {
+    cursor: pointer;
+    margin: 1rem;
+    border: 1px solid black;
+    width: 16%;
+    height: 23rem !important;
+    background-color: white;
+}
+.list:hover {
+    background-color: white;
+    box-shadow: 4px 4px 0px 0px rgba(0, 0, 0);
+}
+.list {
+    border-radius: 10px;
+}
+.gadget {
+    border-radius: 10px 10px 0px 0px;
+}
+.bookmark_shape {
+    margin: 10px;
+    width: 80px;
+    height: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    border-right: 25px solid transparent;
+    border-left: none;
+    border-top: 15px solid #9790ff;
+    border-bottom: 15px solid #9790ff;
+}

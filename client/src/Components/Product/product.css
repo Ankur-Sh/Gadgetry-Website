@@ -1,0 +1,10 @@
+.added_notification {
+    padding: 1.1rem;
+    background-color: rgb(26, 223, 26);
+    position: fixed;
+    border-radius: 0.4rem;
+    font-weight: bold;
+    z-index: 500;
+    top: 0.1%;
+    right: 0.1%;
+}

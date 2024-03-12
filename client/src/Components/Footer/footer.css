@@ -1,0 +1,33 @@
+.footer_l {
+    flex-flow: column;
+}
+.footer_l,
+.footer_m,
+.footer_r {
+    width: 33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer_Img {
+    height: 12rem;
+    border-radius: 50%;
+    background-size: contain;
+}
+.footer {
+    padding: 2rem;
+    display: flex;
+    background-color: #44444538;
+    color: white;
+}
+.socials {
+    margin: 1rem 0;
+    background-color: rgba(65, 198, 255, 0.761);
+    padding: 0.3rem;
+    border-radius: 0.2rem;
+}
+.socialhandles {
+    padding: 0.8rem;
+    background-color: black;
+    margin: 0.4rem;
+}

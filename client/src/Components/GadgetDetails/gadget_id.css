@@ -1,0 +1,105 @@
+.gadget_details {
+    width: 80%;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-bottom: 2rem;
+}
+.id_title {
+    display: flex;
+    flex-flow: wrap;
+    font-size: 3rem;
+    padding: 1rem;
+}
+.id_creator {
+    font-size: 1.3rem;
+    padding: 1rem;
+    overflow-wrap: anywhere;
+}
+.id_img {
+    width: 100%;
+    height: 50rem;
+}
+.id_price {
+    display: flex;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+.id_details {
+    display: flex;
+}
+.left_id_box {
+    width: 70%;
+    border: 1px solid black;
+    height: 40rem;
+}
+.right_id_box {
+    width: 30%;
+    border: 1px solid black;
+    height: 40rem;
+}
+.sign_out_btn {
+    margin-left: 2rem;
+    font-weight: 700;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    background-color: #ff9500;
+}
+.sign_out_btn:hover {
+    box-shadow: 5px 4px 0px 0px rgba(0, 0, 0);
+}
+
+.id_add_to_cart {
+    margin: 0 1rem;
+}
+.add_to_cart {
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+.id_ratings {
+    padding: 1rem;
+}
+.rating_heading {
+    font-size: larger;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+.star {
+    margin-left: 7rem;
+}
+.progress_bar_box_container {
+    background-color: white;
+    border: 1px solid black;
+    width: 70%;
+    position: relative;
+    left: 1rem;
+    border-radius: 5px;
+}
+
+.progress_bar_box {
+    border-radius: 5px;
+    padding: 0%;
+    text-align: center;
+    font-size: 20px;
+}
+.star_container {
+    display: flex;
+    margin: 0.5rem;
+}
+.progress_bar_width {
+    background-color: #ff9500;
+    width: 100%;
+}
+.no_of_star {
+    width: 3rem;
+}
+.transaction_btn {
+    background-color: rgb(5, 206, 5);
+    margin-left: 1rem;
+    margin-top: 8%;
+    padding: 0.7rem 27%;
+    border-radius: 2px;
+    font-weight: bolder;
+    font-size: medium;
+}
